@@ -1,0 +1,78 @@
+{
+  "Employees": [
+    {
+      "Id": 1,
+      "First": "Gary",
+      "Last": "Smith",
+      "Age": 30
+    },
+    {
+      "Id": 2,
+      "First": "Melissa",
+      "Last": "Jones",
+      "Age": 22
+    },
+    {
+      "Id": 3,
+      "First": "Emily",
+      "Last": "Walker",
+      "Age": 25
+    },
+    {
+      "Id": 4,
+      "First": "Luis",
+      "Last": "Manchado",
+      "Age": 29
+    },
+    {
+      "Id": 5,
+      "First": "Josh",
+      "Last": "Parker",
+      "Age": 45
+    },
+    {
+      "Id": 6,
+      "First": "Jenny",
+      "Last": "Kamm",
+      "Age": 41
+    },
+    {
+      "Id": 7,
+      "First": "Amber",
+      "Last": "Reise",
+      "Age": 36
+    },
+    {
+      "Id": 8,
+      "First": "Michael",
+      "Last": "Camp",
+      "Age": 20
+    },
+    {
+      "Id": 9,
+      "First": "Jeff",
+      "Last": "Loris",
+      "Age": 27
+    },
+    {
+      "Id": 10,
+      "First": "Alice",
+      "Last": "Manfield",
+      "Age": 32
+    }
+  ],
+  "EmergencyContacts": [
+    {
+      "Id": 1,
+      "EmployeeId": 9,
+      "First": "Joe",
+      "Last": "Manfield"
+    },
+    {
+      "Id": 2,
+      "EmployeeId": 5,
+      "First": "Miranda",
+      "Last": "Parker"
+    }
+  ]
+}
